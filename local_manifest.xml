@@ -5,7 +5,6 @@
 
    <remote name="raiden" fetch="https://github.com/raidenkkj" />
    <remote name="gui" fetch="https://github.com/GuilianoS" />
-   <remote name="lineage" fetch="https://github.com/LineageOS" />
 
  <!-- Trees -->
 
