@@ -4,9 +4,6 @@
 <!-- Remotes -->
 
    <remote name="jhon" fetch="https://github.com/jhonnytech90" />
-   <remote name="raidenkkj" fetch="https://github.com/raidenkkj" />
-   <remote name="gui" fetch="https://github.com/GuilianoS" />
-   <remote name="lineage" fetch="https://github.com/LineageOS" />
 
  <!-- Trees -->
 
