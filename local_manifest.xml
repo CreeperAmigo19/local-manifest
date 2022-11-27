@@ -3,13 +3,13 @@
 
 <!-- Remotes -->
 
-   <remote name="raiden" fetch="https://github.com/raidenkkj" />
+   <remote name="jhon" fetch="https://github.com/jhonnytech90" />
    <remote name="gui" fetch="https://github.com/GuilianoS" />
    <remote name="mim" fetch="https://github.com/CreeperAmigo19" />
 
  <!-- Trees -->
 
-   <project path="device/asus/A001D" name="android_device_asus_A001D" remote="mim" revision="cafe" />
+   <project path="device/asus/A001D" name="android_device_asus_A001D" remote="jhon" revision="cafex" />
    <project path="vendor/asus/A001D" name="vendor_asus_A001D" remote="gui" revision="lineage-18.1" />
    <project path="kernel/asus/A001D" name="kernel_asus_A001D" remote="gui" revision="11" />
  
