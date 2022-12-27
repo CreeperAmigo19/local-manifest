@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<!-- Remotes -->
+<!-- Remotes, and some people who helped me  -->
 
    <remote name="jhon" fetch="https://github.com/jhonnytech90" />
    <remote name="gui" fetch="https://github.com/GuilianoS" />
    <remote name="mim" fetch="https://github.com/CreeperAmigo19" />
-   <remote name="lineage" fetch="https://github.com/CreeperAmigo19" />
+   <remote name="lineage" fetch="https://github.com/LineageOS" />
 
  <!-- Trees -->
 
